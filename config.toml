@@ -1,0 +1,13 @@
+[app]
+music_dir = "/home/crystal-ryu/Músicas/" # "/home/use/music/"
+output_dir = "./cover/"
+display_method = "catimg"
+cover_size = 40 # expect that the cover should be aproximally an square so size will be both the width and height
+
+[catimg]
+resolution = false # False, 1 or 2. If false, catimg will calculate the higher option
+# color 
+true_color = true
+
+[keybind]
+close_app = "q"
