@@ -1,0 +1,16 @@
+site_name: Garou Tensei Player
+repo_url: https://github.com/MateusRyu/Garyou_Tensei_Player
+repo_name: MateusRyu/Garyou_Tensei_Player
+edit_uri: tree/main/docs
+
+theme: 
+  name: material
+  # language: pt-BR
+  # favicon: assets/path...
+  # logo: assets/path...
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
